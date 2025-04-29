@@ -1,0 +1,7 @@
+name: MineKotlinPlayerList
+version: '1.0'
+main: com.guviega.MineKotlinPlayerList
+api-version: '1.21'
+authors: [ Gustavo Viega and Gabriel Souza ]
+description: A PlayerList plugin for MineKotlin Minecraft Server.
+website: github.com/Guviega
